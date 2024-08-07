@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guilhermekenzo.me/sitemap.xml

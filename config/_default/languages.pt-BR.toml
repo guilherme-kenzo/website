@@ -1,0 +1,27 @@
+languageCode = "pt-BR"
+languageName = "Portuguese"
+weight = 2
+title = "Guilherme Kenzo"
+contentDir = 'content/pt'
+
+
+[params]
+  displayName = "PT"
+  isoCode = "pt-BR"
+  rtl = false
+  # logo = "img/logo.png"
+  description = "O meu website awesome"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Guilherme Kenzo"
+  image = "img/profile_photo.png"
+  headline = "Acadêmico de Direito e Tecnologia, programador, <br/>entusiasta de tecnologia e ex-CTO na <a href=\"https://turivius.com\">turivius.com</a>"
+  bio = "Acadêmico de Direito e Tecnologia, programador, entusiasta de tecnologia e ex-CTO na <a href=\"https://turivius.com\">turivius.com</a>"
+   links = [
+     { link = "https://guilhermekenzo.me" },
+     { github = "https://github.com/guilherme-kenzo" },
+     { email = "mailto:guilherme[at]guilhermekenzo.me" }
+   ]
